@@ -69,7 +69,8 @@
 
 ---
 
-## Main SOLO LEVELING =]]
+## <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/686527da-0d64-4ca2-bc6a-9f5c96631b79" />
+ Main SOLO LEVELING =]]
 <p align="center">
   <img src="https://i.pinimg.com/originals/9f/68/9e/9f689e21e45b184ed19d88ac705dbfe3.gif"/>
 </p>
@@ -79,16 +80,7 @@
 ## 📊 GitHub Stats & Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungchaos&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungchaos&layout=compact&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungchaos&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trungchaos&theme=onedark&row=1&column=6" />
+  <img src="https://github.com/trungchaos/trungchaos/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
