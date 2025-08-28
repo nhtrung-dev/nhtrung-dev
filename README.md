@@ -31,7 +31,7 @@
 - **Ask me about:** *Frontend and Databases.*  
 - **How to reach me:** *tri00349@gmail.com*  
 
-> _Note:_ If your GitHub username isn’t **trungchaos**, search & replace it below to make the widgets work.
+
 
 ---
 
@@ -69,9 +69,9 @@
 
 ---
 
-## 🖼️ A tiny wibu touch
+## Main SOLO LEVELING =]]
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="coding matrix gif"/>
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="coding matrix gif](https://i.pinimg.com/originals/9f/68/9e/9f689e21e45b184ed19d88ac705dbfe3.gif)"/>
 </p>
 
 ---
