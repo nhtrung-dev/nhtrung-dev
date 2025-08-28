@@ -53,7 +53,6 @@
 </p>
 <hr>
 <p align="center">
-  <!-- SVG animated snake -->
   <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 <hr>
