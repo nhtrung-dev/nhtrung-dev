@@ -53,10 +53,10 @@
 </p>
 <hr>
 <p align="center">
-  ![snake gif](https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 <hr>
+
 
 
 ## 🔗 Quick links
