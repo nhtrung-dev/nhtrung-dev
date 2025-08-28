@@ -2,6 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
+    # chạy mỗi ngày lúc 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake (svg + dark svg + gif)
         uses: Platane/snk@v3
@@ -21,11 +22,13 @@ jobs:
           github_user_name: nhtrung-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
+          color_snake: "#8e44ad" # tím
+          color_dots: "#40d07d,#30a14e,#216e39" # các mức xanh lá
 
       - name: Push generated files to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
