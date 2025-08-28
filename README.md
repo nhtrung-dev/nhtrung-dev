@@ -102,7 +102,10 @@ Welcom to Trung-dev <img src="https://i.pinimg.com/originals/05/48/dd/0548dd4afa
 
 <hr />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake (dark)" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
   
 
