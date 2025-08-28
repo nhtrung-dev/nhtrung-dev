@@ -53,7 +53,14 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
+
+<p align="center">
+  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
+  <br/>
+  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
+
 </p>
 <hr>
 
