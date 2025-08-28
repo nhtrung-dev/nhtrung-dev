@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/d3/f7/e3/d3f7e3c37d8fb937ad1762578048c2d2.gif">
 </p>
 
-<h1 align="center">Welecom to Trung-dev <img src="https://i.pinimg.com/originals/05/48/dd/0548dd4afa665874c0c568fe5c189bda.gif" width="30"/></h1>
+<h1 align="center">Welcom to Trung-dev <img src="https://i.pinimg.com/originals/05/48/dd/0548dd4afa665874c0c568fe5c189bda.gif" width="30"/></h1>
 <p align="center">
   Fresh graduate • Frontend-first • Growing into Full‑stack
 </p>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3>## <img alt="tool" src="https://i.pinimg.com/originals/8f/8c/49/8f8c49c05d6bb593d9528e6cff554bb4.gif" width="80"> Tech & Tool I use</h3>
+<h3><img alt="tool" src="https://i.pinimg.com/originals/8f/8c/49/8f8c49c05d6bb593d9528e6cff554bb4.gif" width="80"> Tech & Tool I use</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
@@ -53,14 +53,8 @@
 </p>
 <hr>
 <p align="center">
-
-
-<p align="center">
-  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
-  <br/>
-  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
-</p>
-
+  <!-- SVG animated snake -->
+  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 <hr>
 
