@@ -53,12 +53,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
 </p>
 
+<hr />
 
-<hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <!-- Dark snake (nếu có) -->
+  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake (dark)" />
+
+  <!-- Fallback (default SVG) -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg" alt="contribution snake (default)" />
 </p>
-<hr>
+
+<hr />
 
 
 
