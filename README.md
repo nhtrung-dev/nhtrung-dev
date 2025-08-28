@@ -24,7 +24,6 @@
 
 
 <p align="center">
- <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
@@ -54,20 +53,19 @@
 </p>
 
 <hr />
-
 <p align="center">
-  <!-- Dark snake (nếu có) -->
   <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake (dark)" />
-
-  <!-- Fallback (default SVG) -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/nhtrung-dev/nhtrung-dev/output/github-contribution-grid-snake.svg" alt="contribution snake (default)" />
+<hr/>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhtrung-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhtrung-dev&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-<hr />
 
-
-
+---
 ## 🔗 Quick links
 - 🌐 Portfolio (coming soon)
 - 🧑‍💻 All projects: <a href="https://github.com/trungchaos?tab=repositories">github.com/nhtrung-dev</a>
