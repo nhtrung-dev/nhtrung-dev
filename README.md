@@ -51,11 +51,11 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
 </p>
----
+<hr>
 <p align="center">
-  <img src="https://github.com/trungchaos/trungchaos/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/nhtrung-dev/nhtrung-dev/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
----
+<hr>
 
 
 ## 🔗 Quick links
