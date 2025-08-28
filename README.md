@@ -71,7 +71,7 @@
 
 ## Main SOLO LEVELING =]]
 <p align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="coding matrix gif](https://i.pinimg.com/originals/9f/68/9e/9f689e21e45b184ed19d88ac705dbfe3.gif)"/>
+  <img src="https://i.pinimg.com/originals/9f/68/9e/9f689e21e45b184ed19d88ac705dbfe3.gif"/>
 </p>
 
 ---
